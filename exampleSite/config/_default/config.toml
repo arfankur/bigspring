@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "BelajarHUgo"
+title = "TestHugo"
 [markup.goldmark.renderer]
 unsafe = true
